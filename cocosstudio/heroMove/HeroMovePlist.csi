@@ -1,0 +1,24 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="HeroMovePlist" Type="Plist" ID="7c8c07e6-5302-413d-97ff-1359863be949" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="0" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="heroMove/move0.png" />
+      <FilePathData Path="heroMove/move1.png" />
+      <FilePathData Path="heroMove/move10.png" />
+      <FilePathData Path="heroMove/move11.png" />
+      <FilePathData Path="heroMove/move12.png" />
+      <FilePathData Path="heroMove/move13.png" />
+      <FilePathData Path="heroMove/move14.png" />
+      <FilePathData Path="heroMove/move15.png" />
+      <FilePathData Path="heroMove/move2.png" />
+      <FilePathData Path="heroMove/move3.png" />
+      <FilePathData Path="heroMove/move4.png" />
+      <FilePathData Path="heroMove/move5.png" />
+      <FilePathData Path="heroMove/move6.png" />
+      <FilePathData Path="heroMove/move7.png" />
+      <FilePathData Path="heroMove/move8.png" />
+      <FilePathData Path="heroMove/move9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

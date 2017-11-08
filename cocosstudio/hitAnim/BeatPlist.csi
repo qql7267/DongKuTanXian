@@ -1,0 +1,14 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="BeatPlist" Type="Plist" ID="f6d75b1d-51b4-4e9a-b027-a9a08d034746" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="hitAnim/beat0.png" />
+      <FilePathData Path="hitAnim/beat1.png" />
+      <FilePathData Path="hitAnim/beat2.png" />
+      <FilePathData Path="hitAnim/beat3.png" />
+      <FilePathData Path="hitAnim/beat4.png" />
+      <FilePathData Path="hitAnim/beat5.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

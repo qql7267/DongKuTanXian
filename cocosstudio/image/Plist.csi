@@ -1,0 +1,26 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="Plist" Type="Plist" ID="8158a2ce-07a0-4dca-9aec-7dc54a220006" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="False" AllowTrim="True" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="image/background.jpg" />
+      <FilePathData Path="image/button1.png" />
+      <FilePathData Path="image/button2.png" />
+      <FilePathData Path="image/title_logo.png" />
+      <FilePathData Path="image/ball.png" />
+      <FilePathData Path="image/bar.png" />
+      <FilePathData Path="image/bar_bg.png" />
+      <FilePathData Path="image/def_icon.png" />
+      <FilePathData Path="image/hp_icon.png" />
+      <FilePathData Path="image/atk_icon.png" />
+      <FilePathData Path="image/hp_ret_icon.png" />
+      <FilePathData Path="image/chaunqiang_skill.png" />
+      <FilePathData Path="image/huixue_skill.png" />
+      <FilePathData Path="image/taochu_skill.png" />
+      <FilePathData Path="image/money_icon.png" />
+      <FilePathData Path="image/page_icon.png" />
+      <FilePathData Path="image/page_check.png" />
+      <FilePathData Path="image/button3.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

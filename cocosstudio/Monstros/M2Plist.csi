@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="M2Plist" Type="Plist" ID="cc0d34b3-44bc-4cf0-88c1-44e2825485ef" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Monstros/m2_0.png" />
+      <FilePathData Path="Monstros/m2_1.png" />
+      <FilePathData Path="Monstros/m2_10.png" />
+      <FilePathData Path="Monstros/m2_11.png" />
+      <FilePathData Path="Monstros/m2_2.png" />
+      <FilePathData Path="Monstros/m2_3.png" />
+      <FilePathData Path="Monstros/m2_4.png" />
+      <FilePathData Path="Monstros/m2_5.png" />
+      <FilePathData Path="Monstros/m2_6.png" />
+      <FilePathData Path="Monstros/m2_7.png" />
+      <FilePathData Path="Monstros/m2_8.png" />
+      <FilePathData Path="Monstros/m2_9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="1024" />
+  </Content>
+</PlistInfoProjectFile>

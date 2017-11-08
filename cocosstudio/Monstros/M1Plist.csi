@@ -1,0 +1,20 @@
+<PlistInfoProjectFile>
+  <PropertyGroup Name="M1Plist" Type="Plist" ID="8aec4d0e-9dd6-4a9d-ac18-d41f13febafd" Version="3.10.0.0" />
+  <Content ExportType="Png" SortAlgorithm="MaxRects" PicturePadding="1" AllowRotation="True" AllowAnySize="True" AllowTrim="False" ctype="PlistInfoData">
+    <ImageFiles>
+      <FilePathData Path="Monstros/m1_0.png" />
+      <FilePathData Path="Monstros/m1_1.png" />
+      <FilePathData Path="Monstros/m1_10.png" />
+      <FilePathData Path="Monstros/m1_11.png" />
+      <FilePathData Path="Monstros/m1_2.png" />
+      <FilePathData Path="Monstros/m1_3.png" />
+      <FilePathData Path="Monstros/m1_4.png" />
+      <FilePathData Path="Monstros/m1_5.png" />
+      <FilePathData Path="Monstros/m1_6.png" />
+      <FilePathData Path="Monstros/m1_7.png" />
+      <FilePathData Path="Monstros/m1_8.png" />
+      <FilePathData Path="Monstros/m1_9.png" />
+    </ImageFiles>
+    <MaxSize Width="1024" Height="512" />
+  </Content>
+</PlistInfoProjectFile>
