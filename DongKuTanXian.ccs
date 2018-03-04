@@ -1,0 +1,112 @@
+<Solution>
+  <PropertyGroup Name="DongKuTanXian" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="font">
+          <TTF Name="font_fzyt.ttf" />
+          <TTF Name="jiesuan.ttf" />
+          <TTF Name="menu_font.ttf" />
+          <TTF Name="shuiyueti.ttf" />
+          <TTF Name="TotalEclipse.ttf" />
+        </Folder>
+        <Folder Name="heroMove">
+          <PlistInfo Name="HeroMovePlist.csi" Type="Plist" />
+          <Image Name="move0.png" />
+          <Image Name="move1.png" />
+          <Image Name="move10.png" />
+          <Image Name="move11.png" />
+          <Image Name="move12.png" />
+          <Image Name="move13.png" />
+          <Image Name="move14.png" />
+          <Image Name="move15.png" />
+          <Image Name="move2.png" />
+          <Image Name="move3.png" />
+          <Image Name="move4.png" />
+          <Image Name="move5.png" />
+          <Image Name="move6.png" />
+          <Image Name="move7.png" />
+          <Image Name="move8.png" />
+          <Image Name="move9.png" />
+        </Folder>
+        <Folder Name="hitAnim">
+          <Image Name="beat0.png" />
+          <Image Name="beat1.png" />
+          <Image Name="beat2.png" />
+          <Image Name="beat3.png" />
+          <Image Name="beat4.png" />
+          <Image Name="beat5.png" />
+          <PlistInfo Name="BeatPlist.csi" Type="Plist" />
+        </Folder>
+        <Folder Name="image">
+          <Image Name="atk_icon.png" />
+          <Image Name="background.jpg" />
+          <Image Name="ball.png" />
+          <Image Name="bar.png" />
+          <Image Name="bar_bg.png" />
+          <Image Name="button1.png" />
+          <Image Name="button2.png" />
+          <Image Name="button3.png" />
+          <Image Name="chaunqiang_skill.png" />
+          <Image Name="def_icon.png" />
+          <Image Name="hp_icon.png" />
+          <Image Name="hp_ret_icon.png" />
+          <Image Name="huixue_skill.png" />
+          <Image Name="money_icon.png" />
+          <Image Name="page_check.png" />
+          <Image Name="page_icon.png" />
+          <PlistInfo Name="Plist.csi" Type="Plist" />
+          <Image Name="taochu_skill.png" />
+          <Image Name="title_logo.png" />
+          <Image Name="title_logo1.png" />
+        </Folder>
+        <Folder Name="Monstros">
+          <Image Name="m0_0.png" />
+          <Image Name="m0_1.png" />
+          <Image Name="m0_10.png" />
+          <Image Name="m0_11.png" />
+          <Image Name="m0_2.png" />
+          <Image Name="m0_3.png" />
+          <Image Name="m0_4.png" />
+          <Image Name="m0_5.png" />
+          <Image Name="m0_6.png" />
+          <Image Name="m0_7.png" />
+          <Image Name="m0_8.png" />
+          <Image Name="m0_9.png" />
+          <PlistInfo Name="M0Plist.csi" Type="Plist" />
+          <Image Name="m1_0.png" />
+          <Image Name="m1_1.png" />
+          <Image Name="m1_10.png" />
+          <Image Name="m1_11.png" />
+          <Image Name="m1_2.png" />
+          <Image Name="m1_3.png" />
+          <Image Name="m1_4.png" />
+          <Image Name="m1_5.png" />
+          <Image Name="m1_6.png" />
+          <Image Name="m1_7.png" />
+          <Image Name="m1_8.png" />
+          <Image Name="m1_9.png" />
+          <PlistInfo Name="M1Plist.csi" Type="Plist" />
+          <Image Name="m2_0.png" />
+          <Image Name="m2_1.png" />
+          <Image Name="m2_10.png" />
+          <Image Name="m2_11.png" />
+          <Image Name="m2_2.png" />
+          <Image Name="m2_3.png" />
+          <Image Name="m2_4.png" />
+          <Image Name="m2_5.png" />
+          <Image Name="m2_6.png" />
+          <Image Name="m2_7.png" />
+          <Image Name="m2_8.png" />
+          <Image Name="m2_9.png" />
+          <PlistInfo Name="M2Plist.csi" Type="Plist" />
+        </Folder>
+        <Project Name="InstructScene.csd" Type="Scene" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="SettlementScene.csd" Type="Scene" />
+        <Project Name="ShopScene.csd" Type="Scene" />
+        <Project Name="StartGameScene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
